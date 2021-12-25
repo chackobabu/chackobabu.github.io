@@ -1,7 +1,7 @@
 # basic configuration goes here
 
 url: "chackobabu.github.io" 
-baseurl: ""
+# baseurl: ""
 title: "CHACKO BABU" 
 description: "aspiring economist | data science enthusiast"
 email: "chacko.babu@protonmail.com"

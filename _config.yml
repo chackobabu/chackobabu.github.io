@@ -5,7 +5,7 @@ url: "https://chackobabu.github.io/"
 title: "CHACKO BABU" 
 description: "aspiring economist | data science enthusiast"
 email: "chacko.babu@protonmail.com"
-theme: academic
+theme: jekyll-theme-minimal
 port: 2233
 
 markdown: kramdown

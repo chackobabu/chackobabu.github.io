@@ -1,0 +1,14 @@
+# basic configuration goes here
+
+url: "chackobabu.github.io" 
+baseurl: ""
+title: "CHACKO BABU" 
+description: "aspiring economist | data science enthusiast"
+email: "chacko.babu@protonmail.com"
+theme: academic
+port: 2233
+
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+

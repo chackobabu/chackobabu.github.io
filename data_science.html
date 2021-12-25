@@ -1,0 +1,54 @@
+---
+layout: default
+title: "data science"
+---
+
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Selected Data Science Projects</h3>
+
+          <h4><b>Neural Networks</b></h4>
+          <br>
+          {% for item in site.data.data_science.neural_net %}
+            <p>
+              <a href="/data_science_projects/neural_net/{{ item.url }}">{{ item.name }}</a>
+              <p>
+                {{ item.desc }}
+              </p>
+            </p>
+          {% endfor %}
+          <br>
+          <h3 class="fw-bold border-bottom pb-3 mb-5">Statistics</h3>
+          <h4><b>Basic Statistics</b></h4><br> 
+          {% for item in site.data.data_science.Basic_Statistics %}
+            <p>
+              <a href="{{ item.url }}">{{ item.name }}</a>
+              <p>
+                {{ item.desc }}
+              </p>
+            </p>
+          {% endfor %}
+          <br>
+
+          <h4><b>Linear Regression</b></h4><br> 
+          {% for item in site.data.data_science.Linear_regression %}
+            <p>
+              <a href="{{ item.url }}">{{ item.name }}</a>
+              <p>
+                {{ item.desc }}
+              </p>
+            </p>
+          {% endfor %}
+          <br>
+
+          
+
+
+          <p>My main reference for these projects: 
+            <a href="https://www.youtube.com/watch?v=YwadRm2sfpQ&list=PLFzsFUO-y0HDWkdsBMtufEThI2I3c9WlZ" target="blank" rel="noopener noreferrer">Codecademy Live Stats.</a>
+          </p><br>
+
+      </div>
+    </div>
+

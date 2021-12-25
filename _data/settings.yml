@@ -1,0 +1,6 @@
+menu:
+- {name: 'about', url: '/about'}
+- {name: 'research', url: '/research'}
+- {name: 'data_science', url: '/data_science'}
+- {name: 'cv', url: '/cv'}
+

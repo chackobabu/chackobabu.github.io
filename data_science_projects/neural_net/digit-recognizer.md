@@ -662,7 +662,7 @@ $$
 $$
 
 
-pandas `get_dummies()` can be used to get one-hot coded digits as shown below. 
+pandas get_dummies() can be used to get one-hot coded digits as shown below. 
 
 
 ```python

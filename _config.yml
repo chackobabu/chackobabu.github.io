@@ -3,9 +3,9 @@
 url: "https://chackobabu.github.io/" 
 # baseurl: ""
 title: "CHACKO BABU" 
-description: "Development Researcher | Data Scientist"
+description: "Data Analyst"
 email: "chacko.babu@protonmail.com"
-theme: jekyll-theme-minimal
+theme: academic-jekyll-theme
 port: 2233
 
 markdown: kramdown

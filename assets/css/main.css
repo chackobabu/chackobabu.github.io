@@ -7,7 +7,7 @@ code {
   border-top: 1px solid rgb(216, 214, 214);
   border-bottom: 1px solid rgb(216, 214, 214);
   display: block;
-  padding: 8px;c:\Users\lenovo\Downloads\prism.css
+  padding: 8px;
 }
 
 body {
@@ -163,6 +163,12 @@ table tr th :last-child, table tr td :last-child {
   transition: transform 0.5s, opacity 0.5s;
 }
 
+@media (max-width: 1000px) { 
+  .dp {
+    display: none;
+  }
+}
+
 .dp:hover {
   opacity: 1;
   transform: scale(1.12);
@@ -175,7 +181,7 @@ table tr th :last-child, table tr td :last-child {
 
 .math-container {
   overflow-x: auto;
-  display: block; /* or use a <div> instead of a span */
+  display: block;
 }
 
 .copyright {

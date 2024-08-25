@@ -11,9 +11,12 @@ neural_net:
 Basic_Statistics:
 - {name: 'Central Limit Theorem', url: '/data_science_projects/Basic Statistics/Central Limit Theorem/Central Limit Theorem', desc: "An attempt at explaining how Central Limit Theorem helps us form estimates about a population from a sample."}
         
-- {name: 'Hypothesis testing: Binomial Test and Significance Thresholds', url: '/data_science_projects/Basic Statistics/Hypothesis testing: Binomial Test and Significance Thresholds/Hypothesis test', desc: "Simulation of a binomial distribution using fictitious data on sales of a product. Contents: testing of hypothesis, and an attempt at explaining the importance of p value and significance thershold"}
+- {name: 'Hypothesis testing: Binomial Test and Significance Thresholds', url: '/data_science_projects/Basic Statistics/Hypothesis testing_ Binomial Test and Significance Thresholds/Hypothesis test', desc: "Simulation of a binomial distribution using fictitious data on sales of a product. Contents: testing of hypothesis, and an attempt at explaining the importance of p value and significance thershold"}
 
 - {name: 'Hypothesis Testing for association', url: '/data_science_projects/Basic Statistics/Hypothesis Testing for association/Hypothesis Testing for association', desc: "Hypothesis testing for association between variables in a dataset. Tests simulated: Two sample T test, Anova test of variance, Chi-squared test for asssociation between categorical variables"}
 
 Linear_regression:
 - {name: 'Choosing a Linear Regression Model', url: '/data_science_projects/Econometrics/comparison of linear models/comparison of linear models', desc: "Choosing the right linear regression model to explain daily bike rental count based on the environmental and seasonal settings, and an examination of various measures that aid us in that."}
+
+
+
